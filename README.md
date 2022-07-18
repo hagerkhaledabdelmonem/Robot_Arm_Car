@@ -13,6 +13,4 @@ it can be controlled by using google assistance and Bluetooth application so it 
    - Use google assistance's order as switch so we can do 6 orders from 3 orders
    - The project is used to save time and effort and help others to do work for them
 
-## Car design :
 
-![Wi-fi_Car](https://user-images.githubusercontent.com/92521186/179441807-d6e526c1-6e44-499b-b7af-0462001d2209.jpg)
