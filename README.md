@@ -5,7 +5,7 @@ The project is often described as mechanical arm looks like a human arm and can 
 - 2 servo motors instead of 4 for the arm 
 - Ultrasonic sensor to measure the distance and stop at a certain distance before hit things  
 - DC motor 
-- Node MCU
+- Node MCU ESP8266
 - battery 
 
 it can be controlled by using google assistance and Bluetooth application so it can move things from one place to another.
