@@ -9,7 +9,7 @@ The project is often described as mechanical arm looks like a human arm and can 
 - L298N Motor Driver 
 - Battery 
 
-it can be controlled by using google assistance and Bluetooth application so it can move things from one place to another.
+it can be controlled by using google assistance and MIT app inventor so it can move things from one place to another.
 ## Project features :
    - Use google assistance's order as switch so we can do 6 orders from 3 orders
    - The project is used to save time and effort and help others to do work for them
